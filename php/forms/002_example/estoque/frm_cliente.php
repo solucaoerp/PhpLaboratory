@@ -9,13 +9,14 @@
 </head>
 
 <body>
-    <h1>Cadastro de Cliente</h1>
+    <h1>Cadastrando Cliente</h1>
+    <hr>
     <form action="op_cliente.php" method="POST">
         Nome: <input type="text" name="nome" id=""><br>
         E-mail: <input type="email" name="email" id=""><br>
         <input type="submit" value="Cadastrar">
     </form>
-    <a href="index.php">Voltar</a>
+    <a href="lst_cliente.php">Voltar</a>
 </body>
 
 </html>

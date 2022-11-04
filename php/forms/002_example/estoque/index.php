@@ -11,8 +11,8 @@
 <body>
     <h1>Controle de Estoque</h1>
     <ul>
-        <li><a href="frm_cliente.php">Cadastro de Cliente</a></li>
-        <li><a href="frm_produto.php">Cadastro de Produto</a></li>
+        <li><a href="lst_cliente.php">Cliente</a></li>
+        <li><a href="lst_produto.php">Produto</a></li>
     </ul>
 </body>
 

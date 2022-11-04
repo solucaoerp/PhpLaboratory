@@ -9,14 +9,15 @@
 </head>
 
 <body>
-    <h1>Cadastro de Produto</h1>
+    <h1>Cadastrando Produto</h1>
+    <hr>
     <form action="op_produto.php" method="POST">
         Produto: <input type="text" name="produto" id=""><br>
         Preço: <input type="text" name="preco" id=""><br>
         Estoque: <input type="number" name="estoque" id=""><br>
         <input type="submit" value="Cadastrar">
     </form>
-    <a href="index.php">Voltar</a>
+    <a href="lst_produto.php">Voltar</a>
 </body>
 
 </html>
